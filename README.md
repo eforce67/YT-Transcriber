@@ -16,6 +16,6 @@ This project aims to download YouTube videos and transcribe them using Open-AI W
 > [!NOTE]
 > If you're attempting to use Openai whisper-large-v3, It might work if you could get it to work with faster-whisper first.
 
-# This project wouldn't be possible but thanks to these guys it is, so check them out!
-[faster-whisper](https://github.com/guillaumekln/faster-whisper)
-[pytube](https://github.com/pytube/pytube)
+## This project wouldn't be possible but thanks to these guys it is, so check them out!
+- [faster-whisper](https://github.com/guillaumekln/faster-whisper)
+- [pytube](https://github.com/pytube/pytube)
