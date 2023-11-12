@@ -1,5 +1,6 @@
 # YT-Transcriber 
 This project aims to download YouTube videos and transcribe them using Open-AI Whisper's models!
+> supports Python 3.9+
 
 # Benefits of what the script can do:
 - Uses __faster-whisper__ for improvement in performance.
