@@ -1,0 +1,22 @@
+# Configuration File
+# Author: @Neonshark
+# Date: 23 Sep 2023
+
+# This file specifies the parameters for the script that downloads YouTube videos and transcribes them using the OpenAI Whisper model.
+# For more details on the model, see [OpenAI Whisper].
+
+# The name of the model to use for transcription. You can load any Whisper model from https://huggingface.co/
+# Example of this would be: large-v2, medium, medium.en, small, small.en, base, base.en, tiny, tiny.en
+selected_model: medium.en
+
+# Whether you would like to use GPU or CPU to compute. Options are: cpu or cuda for gpu computing.
+device: cpu
+
+# Whether to use int8_float16(float16 | GPU) or int8(float32 | CPU)
+compute: int8
+
+# The number of retries to attempt when downloading a YouTube video fails. Must be an integer greater than zero.
+download_attempts: 3
+
+# The path to the file that contains the YouTube links to process. Each link should be on a new line.
+youtube_links_file: ./youtube_links.txt
