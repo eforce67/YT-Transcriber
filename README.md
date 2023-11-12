@@ -9,8 +9,7 @@ This project aims to download YouTube videos and transcribe them using Open-AI W
 - Fully automated transcription process.
 
 # What the script cannot do:
-- Only transcribes **mp3** audio files,
-- but you can easily modify the code to add support for your use cases.
+- Only transcribes **mp3** audio files, but you can easily modify the code to add support for your use cases.
 - Limited Error handling, although you could create an issue and ask for help!
 - Can only download videos from YouTube
 
