@@ -1,0 +1,4 @@
+inquirer
+pandas
+faster-whisper
+pytube
