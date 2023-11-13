@@ -2,6 +2,8 @@
 This project aims to download YouTube videos and transcribe them using Open-AI Whisper's models!
 > supports Python 3.9+
 
+![alt text](./Capture.JPG)
+
 # Benefits of what the script can do:
 - Uses __faster-whisper__ for improvement in performance.
 - When chunk size is reached (which is 600), the script writes the data into the CSV file.
@@ -14,8 +16,10 @@ This project aims to download YouTube videos and transcribe them using Open-AI W
 - Limited Error handling, although you could create an issue and ask for help!
 - Can only download videos from YouTube
 
+
 > [!NOTE]
 > If you're attempting to use Openai whisper-large-v3, It might work if you could get it to work with faster-whisper first.
+
 
 ## This project wouldn't be possible but thanks to these guys it is, so check them out!
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper)
