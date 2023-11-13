@@ -1,4 +1,4 @@
 inquirer
 pandas
-faster-whisper
+whisper-ctranslate2
 pytube
