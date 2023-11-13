@@ -20,3 +20,4 @@ This project aims to download YouTube videos and transcribe them using Open-AI W
 ## This project wouldn't be possible but thanks to these guys it is, so check them out!
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper)
 - [pytube](https://github.com/pytube/pytube)
+- [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2)
